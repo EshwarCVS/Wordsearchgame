@@ -1,5 +1,5 @@
 from tkinter.filedialog import askopenfile
-import worddrive
+import a3
 
 
 def print_board(board):
